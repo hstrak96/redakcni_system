@@ -1,0 +1,25 @@
+.pata { background-color: 343a40;height: 2.5rem;clear: both; position: absolute; width:100%; }
+.hlava {background-color: db2c23;color:white;text-align: center; font-family: couturebold;}
+
+@font-face {
+    font-family: 'couturebold';
+    src: url('webfontkit-20201024-135213/couture-bld-webfont.woff2') format('woff2'),
+         url('webfontkit-20201024-135213/couture-bld-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.form
+{
+
+position: relative;
+background-image: url(form.png);
+background-repeat: no-repeat;
+background-position: center;
+height: 80%;
+
+}
+
+
+//font-family: Verdana, Geneva, Tahoma, sans-serif; #1
